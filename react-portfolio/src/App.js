@@ -1,6 +1,5 @@
-import Search from './components/Search/Search';
 import Header from './components/Header/HeaderNav';
-import BodyNoLogin from './components/BodyNoLogin/BodyNoLogin';
+import Body from './components/Body/Body';
 import Footer from './components/Footer/Footer';
 import "./App.css";
 import 'bulma/css/bulma.min.css';
@@ -12,8 +11,7 @@ function App() {
     <div className="App container">
       <header className="App-header">
         <Header />
-        <Search />
-        <BodyNoLogin />
+        <Body />
         <Footer />
       </header>
     </div>
