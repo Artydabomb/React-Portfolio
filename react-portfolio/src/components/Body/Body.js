@@ -1,6 +1,6 @@
 import React from "react";
 import CardContent from "../CardContent/CardContent";
-import "./Body.css";
+// import "./Body.css";
 import projects from "../../projects.json";
 
 function Body() {
