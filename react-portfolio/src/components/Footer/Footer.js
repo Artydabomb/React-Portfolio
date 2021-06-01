@@ -8,15 +8,31 @@ function Footer() {
                     <p>
                         <strong>Arthur Leung</strong> by <a href="https://github.com/Artydabomb">Arthur Leung</a>.
                     </p>
+
                     <p>
-                        <a href="mailto:arthur.leung3@gmail.com?subject=Reaching Out">arthur.leung3@gmail.com</a>
+                        <span class="icon-text">
+                            <span class="icon">
+                                <i class="fas fa-envelope-square"></i>
+                            </span>
+                            <span><a href="mailto:arthur.leung3@gmail.com?subject=Reaching Out">arthur.leung3@gmail.com</a></span>
+                        </span>
                     </p>
+
                     <p>
-                        +1 (530) 760-6990
+                        <span class="icon-text">
+                            <span class="icon">
+                                <i class="fas fa-phone-square-alt"></i>
+                            </span>
+                            <span>+1 (530)760-6990</span>
+                        </span>
                     </p>
-                    <p>
-                        <a href="https://www.linkedin.com/in/afyleung">Arthur Leung</a>
-                    </p>
+
+                    <span class="icon-text">
+                        <span class="icon">
+                            <i class="fab fa-linkedin"></i>
+                        </span>
+                        <span><a href="https://www.linkedin.com/in/afyleung">Arthur Leung</a></span>
+                    </span>
                 </div>
             </footer>
         </div >

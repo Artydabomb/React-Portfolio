@@ -9,3 +9,11 @@
 .oneCard{
   width: 100%;
 }
+
+.project-grid{
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 30px;
+  background-color: white
+}
